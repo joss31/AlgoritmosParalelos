@@ -82,7 +82,6 @@ int main()
     total_time = ((double)(final_time - start_time)) / CLOCKS_PER_SEC;
     cout<<endl;
     cout<<"tiempo: "<<total_time<<endl;
-    
 
 
     return 0;
