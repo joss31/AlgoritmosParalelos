@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define BlockSize 4
+#define BlockSize 40
 
 int** crear_matriz(int f,int c){
     int**mat;
