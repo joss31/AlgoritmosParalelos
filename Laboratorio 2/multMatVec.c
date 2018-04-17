@@ -173,6 +173,7 @@ int main(int argc, char* argv[]) {
         printf("%e\n", time);
 
     }
+  
     free(local_A);
     free(local_x);
     free(local_y);
